@@ -6,3 +6,6 @@
 /.env.test.local
 /.env.production.local
 /.cache
+
+*-key.json
+*.log
