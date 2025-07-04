@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node --env-file=.env index.js",
-    "helper": "node --env-file=.env helper/test-google-setup.js"
+    "helper:sheet": "node --env-file=.env helper/test-google-setup.js"
   },
   "keywords": [],
   "author": "",
